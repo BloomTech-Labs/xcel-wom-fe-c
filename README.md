@@ -19,7 +19,6 @@ Add contributor info below, make sure add images and edit the social links for e
 | student1-github   | [<img src="https://github.com/favicon.ico" width="25">](https://github.com/aricrepp)                                       | [<img src="https://github.com/favicon.ico" width="25"> ](https://github.com/tommyconner96)                                     | [<img src="https://github.com/favicon.ico" width="25"> ](https://github.com/Ryan-webdev)                                       | student5-github   | student6-github   | [<img src="https://github.com/favicon.ico" width="25"> ](https://github.com/germainep)                                      | [<img src="https://github.com/favicon.ico" width="25"> ](https://github.com/MrT3313)                                          |
 | student1-linkedin | [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25">](https://www.linkedin.com/in/aric-repp/)   | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/in/tommyconner96/) | [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/in/ryan-schueck/)   | student5-linkedin | student6-linkedin | [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25">](https://www.linkedin.com/in/germaine-p/)   | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/in/reedturgeon/)  |
 
-
 <br>
 <br>
 
@@ -31,7 +30,7 @@ Add contributor info below, make sure add images and edit the social links for e
 
 🚫 more info on using badges [here](https://github.com/badges/shields)
 
-- Fork and clone the repo to install it as your own remote.
+- Clone the repo to install it as your own remote.
   - **note** please [be sure to set your remote](https://help.github.jp/enterprise/2.11/user/articles/changing-a-remote-s-url/) for this repo to point to your Labs Team Front End Repository.
 - run: `npm install` to download all dependencies.
 - run: `npm start` to start your local development server.
